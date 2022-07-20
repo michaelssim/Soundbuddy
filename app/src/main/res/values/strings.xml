@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Soundbuddy</string>
+    <string name="copyright_text">Made with ❤ by Michael Sim</string>
+    <string name="copyright_text_alt">Made with 💓 by Michael Sim</string>
+    <string name="metronome_bpm_info">beats per minute (bpm)</string>
+    <string name="tempo_label">tempo range</string>
+</resources>
